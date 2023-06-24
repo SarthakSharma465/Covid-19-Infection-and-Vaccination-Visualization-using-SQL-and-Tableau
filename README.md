@@ -23,7 +23,7 @@ Link to my Tableau profile : https://public.tableau.com/app/profile/sarthak.shar
 
 
 # Roadmap
-- Firstly we downloaded the complete Covid-19 dataset from the following website (https://ourworldindata.org/) which included all data regarding the number of deaths, vaccinations, dates, and different locations.
+- Firstly we downloaded the complete Covid-19 dataset from the following website https://ourworldindata.org/ which included all data regarding the number of deaths, vaccinations, dates, and different locations.
 - Now comes the role of SQL, I first split my entire dataset into two parts: CovidDeaths and CovidVaccinations.
 - I queried my data on various parameters for example :
   1) Total cases versus Total deaths
