@@ -1,5 +1,7 @@
 # Covid-19-Infection-and-Vaccination-Visualization-using-SQL-and-Tableau
 
+This is a data visualization project where I have worked on the Covid-19 data for in-depth analysis by creating Infection and Vaccination Dashboards. 
+I have used SQL, SSMS to filter and query the dataset. Further used Tableau public to create dashboards.
 Link to my Tableau profile : https://public.tableau.com/app/profile/sarthak.sharma5798
 
 # Screenshots
